@@ -1,1 +1,19 @@
-tracker_orig.db
+.git
+.gitignore
+
+# база данных в начальном состоянии
+tracker.db
+
+# скрипты создания образа
+build.sh
+force_build.sh
+
+# скрипт начального копирования базы данных в именованный том
+vol_db_init.sh
+
+# скрипты первого и последующих запусков контейнера
+cont_run.sh
+cont_start.sh
+
+# прочее
+README.md

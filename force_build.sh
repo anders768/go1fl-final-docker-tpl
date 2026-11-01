@@ -1,0 +1,1 @@
+docker build --no-cache --tag anders768/parcel-service-repo:v1 .

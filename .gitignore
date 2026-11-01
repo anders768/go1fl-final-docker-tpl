@@ -1,2 +1,3 @@
-# база данных в начальном состоянии
-tracker_orig.db
+tracker.db
+
+sqlite3.exe

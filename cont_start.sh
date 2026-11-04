@@ -1,0 +1,1 @@
+docker start -a parcel-service
